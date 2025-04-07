@@ -26,7 +26,8 @@ Para utilizar a aplicação localmente, é necessário ter instalado em sua máq
 
 ## 🧱 Diagrama da Arquitetura
 
-![Image](https://github.com/user-attachments/assets/d5139056-10a1-4c97-8b4a-4167f2d08a64)
+![Image](https://github.com/victorzld/api-post/issues/1#issue-2977681798)
+
 
 ## 🧑‍💻 Tecnologias Utilizadas
 
